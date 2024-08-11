@@ -1,0 +1,4 @@
+(fp_lib_table
+  (version 7)
+  (lib (name "uni")(type "KiCad")(uri "/home/arko/Documents/uni40_pcb/uni.pretty")(options "")(descr ""))
+)
