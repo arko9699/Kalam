@@ -5697,7 +5697,7 @@
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
-		(dnp no)
+		(dnp yes)
 		(uuid "b15ae0df-e3d2-4186-8195-a6fd219b2d49")
 		(property "Reference" "J2"
 			(at 108.585 95.25 0)
@@ -6367,7 +6367,7 @@
 			)
 		)
 		(instances
-			(project "arkre"
+			(project "kalam"
 				(path "/3657237e-c8f2-4ecf-b631-303d8d00a2b6"
 					(page "2")
 				)

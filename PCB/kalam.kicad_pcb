@@ -18648,7 +18648,7 @@
 				)
 			)
 		)
-		(property "LCSC" "C52923"
+		(property "LCSC" "C15849"
 			(at 0 0 0)
 			(layer "B.Fab")
 			(hide yes)
@@ -31811,7 +31811,7 @@
 				)
 			)
 		)
-		(property "LCSC" "C52923"
+		(property "LCSC" "C15849"
 			(at 129.3125 135.1125 0)
 			(layer "B.Fab")
 			(hide yes)
@@ -36013,7 +36013,7 @@
 				)
 			)
 		)
-		(property "LCSC" "C52923"
+		(property "LCSC" "C15849"
 			(at 0 0 0)
 			(layer "B.Fab")
 			(hide yes)
