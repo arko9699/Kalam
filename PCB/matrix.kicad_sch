@@ -746,12 +746,6 @@
 		(uuid "0b99c418-9bbe-400b-93f1-c1af5692374c")
 	)
 	(junction
-		(at 116.84 97.79)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "0d9d011c-b2b7-4922-afb3-f99b6b7a03b2")
-	)
-	(junction
 		(at 104.14 59.69)
 		(diameter 0)
 		(color 0 0 0 0)
@@ -762,12 +756,6 @@
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "0f948b91-f4ca-4599-b02d-9b65e8af13cd")
-	)
-	(junction
-		(at 137.16 66.04)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "174dac28-2255-4005-904d-3e99c964b947")
 	)
 	(junction
 		(at 149.86 66.04)
@@ -860,12 +848,6 @@
 		(uuid "3c31087e-956b-4d2f-8b00-bef0e2d777bb")
 	)
 	(junction
-		(at 167.64 59.69)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "3e197111-1dbb-47c6-bbd7-d60a69948fff")
-	)
-	(junction
 		(at 104.14 78.74)
 		(diameter 0)
 		(color 0 0 0 0)
@@ -908,12 +890,6 @@
 		(uuid "61b5c6eb-37df-4be4-bee7-41b08e014b65")
 	)
 	(junction
-		(at 162.56 46.99)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "68d7245e-ea6c-4459-a58d-7d2f5a95ec5f")
-	)
-	(junction
 		(at 116.84 78.74)
 		(diameter 0)
 		(color 0 0 0 0)
@@ -924,12 +900,6 @@
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "71c2a679-9d5a-4cdd-86ff-220d6c08b450")
-	)
-	(junction
-		(at 142.24 97.79)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "71e6a8b0-2f3c-43b1-9c39-50c2a75ea7cc")
 	)
 	(junction
 		(at 142.24 40.64)
@@ -1034,12 +1004,6 @@
 		(uuid "a0faf819-4308-447d-ab9a-fb07a7f79a88")
 	)
 	(junction
-		(at 111.76 66.04)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "a1925fc6-b226-4a7e-8762-0bcd0d1640ba")
-	)
-	(junction
 		(at 142.24 59.69)
 		(diameter 0)
 		(color 0 0 0 0)
@@ -1058,28 +1022,10 @@
 		(uuid "b14ba708-17fa-4613-9394-ca16debf5829")
 	)
 	(junction
-		(at 78.74 97.79)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "b326e8da-0b97-4850-9775-d870d4e4809c")
-	)
-	(junction
-		(at 73.66 66.04)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "b51bf032-38f0-4025-b35c-66142eba7e6c")
-	)
-	(junction
 		(at 27.94 78.74)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "bf5bf5fb-ab5e-4446-9161-8e945e0618a3")
-	)
-	(junction
-		(at 86.36 66.04)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "c57d8d30-a54a-4dca-ac2c-a863871d0955")
 	)
 	(junction
 		(at 129.54 59.69)
@@ -1104,18 +1050,6 @@
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "dcf05181-299d-406d-9bf2-bf7b944d32a8")
-	)
-	(junction
-		(at 91.44 97.79)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "de7834f9-d962-40c5-8014-a37ba1e8144a")
-	)
-	(junction
-		(at 35.56 66.04)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "e048bd1b-df93-43b8-8714-76e90eeaea03")
 	)
 	(junction
 		(at 175.26 27.94)
@@ -1154,12 +1088,6 @@
 		(uuid "f940febd-dd76-465e-9a5e-098a718ef5a9")
 	)
 	(junction
-		(at 180.34 52.07)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "fad9c5e8-2d7c-44ca-9795-1a2fed29969d")
-	)
-	(junction
 		(at 129.54 40.64)
 		(diameter 0)
 		(color 0 0 0 0)
@@ -1187,7 +1115,7 @@
 	)
 	(wire
 		(pts
-			(xy 162.56 46.99) (xy 162.56 66.04)
+			(xy 162.56 27.94) (xy 162.56 66.04)
 		)
 		(stroke
 			(width 0)
@@ -1217,16 +1145,6 @@
 	)
 	(wire
 		(pts
-			(xy 73.66 66.04) (xy 73.66 85.09)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "0743a7e1-8b44-4856-9cc6-13424a18050a")
-	)
-	(wire
-		(pts
 			(xy 104.14 40.64) (xy 116.84 40.64)
 		)
 		(stroke
@@ -1244,16 +1162,6 @@
 			(type default)
 		)
 		(uuid "10046a29-f77d-4e5b-8101-b6cd0cfc2851")
-	)
-	(wire
-		(pts
-			(xy 53.34 97.79) (xy 78.74 97.79)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "12f4db0e-5fd5-4734-84af-beb34ae17b60")
 	)
 	(wire
 		(pts
@@ -1277,7 +1185,7 @@
 	)
 	(wire
 		(pts
-			(xy 91.44 97.79) (xy 104.14 97.79)
+			(xy 53.34 97.79) (xy 104.14 97.79)
 		)
 		(stroke
 			(width 0)
@@ -1327,7 +1235,7 @@
 	)
 	(wire
 		(pts
-			(xy 167.64 59.69) (xy 180.34 59.69)
+			(xy 154.94 59.69) (xy 180.34 59.69)
 		)
 		(stroke
 			(width 0)
@@ -1374,16 +1282,6 @@
 			(type default)
 		)
 		(uuid "2273016e-ac7b-46ab-9305-9711301c23c0")
-	)
-	(wire
-		(pts
-			(xy 111.76 66.04) (xy 111.76 85.09)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "2976dfa7-892f-4c32-8650-45d6eb40aaa8")
 	)
 	(wire
 		(pts
@@ -1487,26 +1385,6 @@
 	)
 	(wire
 		(pts
-			(xy 142.24 97.79) (xy 154.94 97.79)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "40849b03-c76d-406b-aff1-2628b461d7ca")
-	)
-	(wire
-		(pts
-			(xy 180.34 52.07) (xy 184.15 52.07)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "448069b5-8e32-4f71-9c4d-c9e273a22020")
-	)
-	(wire
-		(pts
 			(xy 116.84 40.64) (xy 129.54 40.64)
 		)
 		(stroke
@@ -1604,16 +1482,6 @@
 			(type default)
 		)
 		(uuid "6c426664-d2b5-4135-9076-d66097c5b007")
-	)
-	(wire
-		(pts
-			(xy 35.56 46.99) (xy 35.56 66.04)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "6f606518-560c-42ae-9ab0-2ed1b549108a")
 	)
 	(wire
 		(pts
@@ -1727,16 +1595,6 @@
 	)
 	(wire
 		(pts
-			(xy 86.36 66.04) (xy 86.36 85.09)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "8e97c93f-6b11-4443-93db-4b5b7dc494d6")
-	)
-	(wire
-		(pts
 			(xy 48.26 46.99) (xy 48.26 66.04)
 		)
 		(stroke
@@ -1807,16 +1665,6 @@
 	)
 	(wire
 		(pts
-			(xy 175.26 46.99) (xy 179.07 46.99)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "960eb68f-99e7-4802-906b-590f87fb43be")
-	)
-	(wire
-		(pts
 			(xy 175.26 21.59) (xy 175.26 27.94)
 		)
 		(stroke
@@ -1834,16 +1682,6 @@
 			(type default)
 		)
 		(uuid "9a896cd4-0a0a-45f3-850d-cb2464612eb8")
-	)
-	(wire
-		(pts
-			(xy 78.74 97.79) (xy 91.44 97.79)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "9d9bfe8d-9ce1-42c9-8e0d-cfe9f84d868d")
 	)
 	(wire
 		(pts
@@ -1947,16 +1785,6 @@
 	)
 	(wire
 		(pts
-			(xy 137.16 66.04) (xy 137.16 85.09)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "bf27fdcd-06e2-461e-ba68-fa5e6a8ca783")
-	)
-	(wire
-		(pts
 			(xy 78.74 78.74) (xy 91.44 78.74)
 		)
 		(stroke
@@ -2017,27 +1845,7 @@
 	)
 	(wire
 		(pts
-			(xy 162.56 27.94) (xy 162.56 46.99)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "d1841b5f-8c21-41c4-900c-c60cc81a5ee2")
-	)
-	(wire
-		(pts
-			(xy 116.84 97.79) (xy 142.24 97.79)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "d48c6a3e-5aae-4e7d-933f-ce33a91693d2")
-	)
-	(wire
-		(pts
-			(xy 35.56 66.04) (xy 35.56 85.09)
+			(xy 35.56 46.99) (xy 35.56 85.09)
 		)
 		(stroke
 			(width 0)
@@ -2067,7 +1875,7 @@
 	)
 	(wire
 		(pts
-			(xy 104.14 97.79) (xy 116.84 97.79)
+			(xy 104.14 97.79) (xy 154.94 97.79)
 		)
 		(stroke
 			(width 0)
@@ -2114,16 +1922,6 @@
 			(type default)
 		)
 		(uuid "ecdde691-ca70-42e4-9d71-10098c868e2c")
-	)
-	(wire
-		(pts
-			(xy 154.94 59.69) (xy 167.64 59.69)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "edb982fd-88ec-4869-8180-50b9fa98d176")
 	)
 	(wire
 		(pts
@@ -2624,15 +2422,6 @@
 				(hide yes)
 			)
 		)
-		(property "LCSC" "C7420318"
-			(at 167.64 74.93 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
 		(pin "1"
 			(uuid "64b7f533-5b74-480a-842a-65b4181dec99")
 		)
@@ -2713,15 +2502,6 @@
 			)
 		)
 		(property "Sim.Pins" "1=K 2=A"
-			(at 104.14 74.93 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "LCSC" "C7420318"
 			(at 104.14 74.93 0)
 			(effects
 				(font
@@ -2818,15 +2598,6 @@
 				(hide yes)
 			)
 		)
-		(property "LCSC" "C7420318"
-			(at 27.94 55.88 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
 		(pin "1"
 			(uuid "17ee1165-c15d-4cb7-a03b-6f99c527bfb5")
 		)
@@ -2915,15 +2686,6 @@
 				(hide yes)
 			)
 		)
-		(property "LCSC" "C7420318"
-			(at 180.34 55.88 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
 		(pin "1"
 			(uuid "4bcfadc3-93d7-4dd4-bb06-5f501066cc10")
 		)
@@ -2946,7 +2708,7 @@
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
-		(dnp yes)
+		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "0663a067-cafe-4e81-9833-cb603f794f0c")
 		(property "Reference" "MX2"
@@ -3014,7 +2776,7 @@
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
-		(dnp yes)
+		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "066bf561-d580-4f5c-93fc-cba4dbef6e28")
 		(property "Reference" "MX21"
@@ -3148,15 +2910,6 @@
 				(hide yes)
 			)
 		)
-		(property "LCSC" "C7420318"
-			(at 40.64 55.88 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
 		(pin "1"
 			(uuid "9d16f950-d358-4cdf-8f71-8dc9ad199f9b")
 		)
@@ -3245,15 +2998,6 @@
 				(hide yes)
 			)
 		)
-		(property "LCSC" "C7420318"
-			(at 104.14 93.98 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
 		(pin "1"
 			(uuid "67366e5d-9d99-4e2d-a774-8ee713bc1a7a")
 		)
@@ -3276,7 +3020,7 @@
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
-		(dnp yes)
+		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "0799acd9-9afb-47d2-a037-af2ba5c7dd3a")
 		(property "Reference" "MX40"
@@ -3344,7 +3088,7 @@
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
-		(dnp yes)
+		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "0da7b03a-295c-416c-a56b-c524933b1067")
 		(property "Reference" "MX25"
@@ -3407,177 +3151,12 @@
 	)
 	(symbol
 		(lib_id "PCM_marbastlib-mx:MX_SW_HS")
-		(at 181.61 49.53 180)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp yes)
-		(fields_autoplaced yes)
-		(uuid "130c0e6d-bf04-4f89-9c47-b6d71173f2eb")
-		(property "Reference" "MX28"
-			(at 181.61 41.91 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Value" "MX_SW_solder"
-			(at 181.61 44.45 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Footprint" "PCM_marbastlib-mx:SW_MX_1u"
-			(at 181.61 49.53 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" "~"
-			(at 181.61 49.53 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" ""
-			(at 181.61 49.53 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "1"
-			(uuid "44d539d8-5ef2-4e57-b3f4-daefa7545efb")
-		)
-		(pin "2"
-			(uuid "21cbdc75-d043-41e4-859c-82d96887d201")
-		)
-		(instances
-			(project "arkre"
-				(path "/3657237e-c8f2-4ecf-b631-303d8d00a2b6/86c11717-6fb1-49fa-ba22-57d9c11d0559"
-					(reference "MX28")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "Diode:1N4148W")
-		(at 91.44 93.98 90)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "1318af7e-68ad-4ee1-a1ac-e707119fc07e")
-		(property "Reference" "D43"
-			(at 93.98 92.71 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify right)
-			)
-		)
-		(property "Value" "1N4148W"
-			(at 93.98 95.25 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify right)
-			)
-		)
-		(property "Footprint" "Diode_SMD:D_SOD-123"
-			(at 95.885 93.98 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" "https://www.vishay.com/docs/85748/1n4148w.pdf"
-			(at 91.44 93.98 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" ""
-			(at 91.44 93.98 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Sim.Device" "D"
-			(at 91.44 93.98 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Sim.Pins" "1=K 2=A"
-			(at 91.44 93.98 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "LCSC" "C7420318"
-			(at 91.44 93.98 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "1"
-			(uuid "7eae68cc-e1a1-4fd4-8e32-39efa90e55f9")
-		)
-		(pin "2"
-			(uuid "6733a58f-2ab8-44d3-b0ac-7cf1faae039a")
-		)
-		(instances
-			(project "arkre"
-				(path "/3657237e-c8f2-4ecf-b631-303d8d00a2b6/86c11717-6fb1-49fa-ba22-57d9c11d0559"
-					(reference "D43")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "PCM_marbastlib-mx:MX_SW_HS")
 		(at 63.5 68.58 180)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
-		(dnp yes)
+		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "1acf27b3-417c-4607-b4e9-2c3feb797ef6")
 		(property "Reference" "MX33"
@@ -3633,70 +3212,6 @@
 			(project "arkre"
 				(path "/3657237e-c8f2-4ecf-b631-303d8d00a2b6/86c11717-6fb1-49fa-ba22-57d9c11d0559"
 					(reference "MX33")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "PCM_marbastlib-mx:MX_stab")
-		(at 199.39 64.77 0)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp yes)
-		(fields_autoplaced yes)
-		(uuid "1ae786b0-cbe6-4af2-b295-0bb3ff9a2e0d")
-		(property "Reference" "S5"
-			(at 205.74 63.373 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Value" "2"
-			(at 205.74 65.913 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Footprint" "PCM_marbastlib-mx:STAB_MX_P_2u"
-			(at 199.39 64.77 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" ""
-			(at 199.39 64.77 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" ""
-			(at 199.39 64.77 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(instances
-			(project "arkre"
-				(path "/3657237e-c8f2-4ecf-b631-303d8d00a2b6/86c11717-6fb1-49fa-ba22-57d9c11d0559"
-					(reference "S5")
 					(unit 1)
 				)
 			)
@@ -3775,15 +3290,6 @@
 				(hide yes)
 			)
 		)
-		(property "LCSC" "C7420318"
-			(at 142.24 74.93 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
 		(pin "1"
 			(uuid "9c9c5e77-fea1-4196-8fb9-c78f5d8d84aa")
 		)
@@ -3806,7 +3312,7 @@
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
-		(dnp yes)
+		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "1dea9763-1f85-4346-a043-e6b9562f6230")
 		(property "Reference" "MX23"
@@ -3940,15 +3446,6 @@
 				(hide yes)
 			)
 		)
-		(property "LCSC" "C7420318"
-			(at 167.64 36.83 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
 		(pin "1"
 			(uuid "bef73c07-4518-4698-ab8b-e4359e33fd15")
 		)
@@ -3971,7 +3468,7 @@
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
-		(dnp yes)
+		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "21318829-365e-4b9d-ac9f-78dfb6f4a4c8")
 		(property "Reference" "MX41"
@@ -3990,7 +3487,7 @@
 				)
 			)
 		)
-		(property "Footprint" "PCM_marbastlib-mx:SW_MX_1u"
+		(property "Footprint" "PCM_marbastlib-mx:SW_MX_1.25u"
 			(at 165.1 68.58 0)
 			(effects
 				(font
@@ -4105,15 +3602,6 @@
 				(hide yes)
 			)
 		)
-		(property "LCSC" "C7420318"
-			(at 91.44 36.83 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
 		(pin "1"
 			(uuid "2df30d7b-f3a9-4755-b782-9c112c89a808")
 		)
@@ -4202,15 +3690,6 @@
 				(hide yes)
 			)
 		)
-		(property "LCSC" "C7420318"
-			(at 27.94 74.93 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
 		(pin "1"
 			(uuid "5315cb01-5c36-4c1a-9946-6f936e467386")
 		)
@@ -4233,7 +3712,7 @@
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
-		(dnp yes)
+		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "25c8f907-c0e1-4153-8ac7-00dad8c9fd49")
 		(property "Reference" "MX22"
@@ -4367,15 +3846,6 @@
 				(hide yes)
 			)
 		)
-		(property "LCSC" "C7420318"
-			(at 53.34 36.83 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
 		(pin "1"
 			(uuid "06355399-2778-437f-8e03-d769b43a1116")
 		)
@@ -4398,7 +3868,7 @@
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
-		(dnp yes)
+		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "274c14f6-aaf6-436f-9232-548a834abd68")
 		(property "Reference" "MX32"
@@ -4532,15 +4002,6 @@
 				(hide yes)
 			)
 		)
-		(property "LCSC" "C7420318"
-			(at 53.34 74.93 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
 		(pin "1"
 			(uuid "5861f428-e600-4ac3-8076-9918e628d67b")
 		)
@@ -4551,103 +4012,6 @@
 			(project "arkre"
 				(path "/3657237e-c8f2-4ecf-b631-303d8d00a2b6/86c11717-6fb1-49fa-ba22-57d9c11d0559"
 					(reference "D29")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "Diode:1N4148W")
-		(at 40.64 74.93 90)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "30b97a62-e1bc-4c72-879b-abcc772aad23")
-		(property "Reference" "D28"
-			(at 43.18 73.66 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify right)
-			)
-		)
-		(property "Value" "1N4148W"
-			(at 43.18 76.2 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify right)
-			)
-		)
-		(property "Footprint" "Diode_SMD:D_SOD-123"
-			(at 45.085 74.93 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" "https://www.vishay.com/docs/85748/1n4148w.pdf"
-			(at 40.64 74.93 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" ""
-			(at 40.64 74.93 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Sim.Device" "D"
-			(at 40.64 74.93 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Sim.Pins" "1=K 2=A"
-			(at 40.64 74.93 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "LCSC" "C7420318"
-			(at 40.64 74.93 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "1"
-			(uuid "446b5859-04d5-4126-bee8-741c6ce9d603")
-		)
-		(pin "2"
-			(uuid "e648648c-8c85-484d-bf62-24624bc8ecf4")
-		)
-		(instances
-			(project "arkre"
-				(path "/3657237e-c8f2-4ecf-b631-303d8d00a2b6/86c11717-6fb1-49fa-ba22-57d9c11d0559"
-					(reference "D28")
 					(unit 1)
 				)
 			)
@@ -4726,15 +4090,6 @@
 				(hide yes)
 			)
 		)
-		(property "LCSC" "C7420318"
-			(at 53.34 93.98 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
 		(pin "1"
 			(uuid "1f203469-4b3e-43c1-8a3d-76268e90dda4")
 		)
@@ -4745,6 +4100,70 @@
 			(project "arkre"
 				(path "/3657237e-c8f2-4ecf-b631-303d8d00a2b6/86c11717-6fb1-49fa-ba22-57d9c11d0559"
 					(reference "D41")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "PCM_marbastlib-mx:MX_stab")
+		(at 199.39 64.77 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "3600895e-d4a9-49c1-8f79-a8ce7963d8b0")
+		(property "Reference" "S2"
+			(at 205.74 63.3729 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "2.25"
+			(at 205.74 65.9129 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" "PCM_marbastlib-mx:STAB_MX_P_2.25u"
+			(at 199.39 64.77 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 199.39 64.77 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" ""
+			(at 199.39 64.77 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(instances
+			(project "kalam"
+				(path "/3657237e-c8f2-4ecf-b631-303d8d00a2b6/86c11717-6fb1-49fa-ba22-57d9c11d0559"
+					(reference "S2")
 					(unit 1)
 				)
 			)
@@ -4823,15 +4242,6 @@
 				(hide yes)
 			)
 		)
-		(property "LCSC" "C7420318"
-			(at 154.94 36.83 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
 		(pin "1"
 			(uuid "3b70719f-4b80-415e-997d-3163636513c2")
 		)
@@ -4854,7 +4264,7 @@
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
-		(dnp yes)
+		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "36ebc79b-cd15-4113-8c59-88bf42e3ad58")
 		(property "Reference" "MX6"
@@ -4988,15 +4398,6 @@
 				(hide yes)
 			)
 		)
-		(property "LCSC" "C7420318"
-			(at 91.44 55.88 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
 		(pin "1"
 			(uuid "3e18d0cb-4e12-4c9a-8667-81c1f72113db")
 		)
@@ -5019,7 +4420,7 @@
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
-		(dnp yes)
+		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "3d74b0ff-2b71-4d7b-810e-9048505c0e09")
 		(property "Reference" "MX48"
@@ -5153,15 +4554,6 @@
 				(hide yes)
 			)
 		)
-		(property "LCSC" "C7420318"
-			(at 142.24 55.88 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
 		(pin "1"
 			(uuid "4dd68fa5-dc06-45b7-adb4-bb59acfff6ef")
 		)
@@ -5250,15 +4642,6 @@
 				(hide yes)
 			)
 		)
-		(property "LCSC" "C7420318"
-			(at 104.14 36.83 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
 		(pin "1"
 			(uuid "edefdda6-db79-4a6d-b614-0d5921ddb92e")
 		)
@@ -5281,7 +4664,7 @@
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
-		(dnp yes)
+		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "434a9f7a-00c4-48a6-a9e3-2d8eddceeb4d")
 		(property "Reference" "MX1"
@@ -5349,7 +4732,7 @@
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
-		(dnp yes)
+		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "459e7d8b-eba3-4a78-8f2f-09672ad33444")
 		(property "Reference" "MX10"
@@ -5483,15 +4866,6 @@
 				(hide yes)
 			)
 		)
-		(property "LCSC" "C7420318"
-			(at 142.24 36.83 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
 		(pin "1"
 			(uuid "cc63132a-539d-40eb-b3e1-d1e47d47f5f1")
 		)
@@ -5514,7 +4888,7 @@
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
-		(dnp yes)
+		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "4bcd4191-0fec-4fed-a634-6f19ab06823e")
 		(property "Reference" "MX15"
@@ -5582,7 +4956,7 @@
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
-		(dnp yes)
+		(dnp no)
 		(uuid "57de3c5f-1272-4bd4-b4dc-61b69aa9191a")
 		(property "Reference" "MX14"
 			(at 25.4 41.91 0)
@@ -5715,15 +5089,6 @@
 				(hide yes)
 			)
 		)
-		(property "LCSC" "C7420318"
-			(at 116.84 55.88 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
 		(pin "1"
 			(uuid "cdace300-4dcf-4e75-8ac2-337094556063")
 		)
@@ -5746,7 +5111,7 @@
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
-		(dnp yes)
+		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "5e9cf223-1a17-4f80-9d0a-076ecef6e86d")
 		(property "Reference" "MX43"
@@ -5814,7 +5179,7 @@
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
-		(dnp yes)
+		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "6055f89d-e782-4185-b975-7c8ac26715a7")
 		(property "Reference" "MX53"
@@ -5882,7 +5247,7 @@
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
-		(dnp yes)
+		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "652b4293-279f-43cb-8656-8eebb2420424")
 		(property "Reference" "MX11"
@@ -6016,15 +5381,6 @@
 				(hide yes)
 			)
 		)
-		(property "LCSC" "C7420318"
-			(at 129.54 36.83 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
 		(pin "1"
 			(uuid "bdb0d05a-e222-45be-8d79-b1a66b1f1720")
 		)
@@ -6047,7 +5403,7 @@
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
-		(dnp yes)
+		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "6e994d1d-a2e5-4811-b933-7eaf32c52f98")
 		(property "Reference" "MX36"
@@ -6115,7 +5471,7 @@
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
-		(dnp yes)
+		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "724745ae-1e39-413c-b8e5-0657246d28b1")
 		(property "Reference" "MX4"
@@ -6171,103 +5527,6 @@
 			(project "arkre"
 				(path "/3657237e-c8f2-4ecf-b631-303d8d00a2b6/86c11717-6fb1-49fa-ba22-57d9c11d0559"
 					(reference "MX4")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "Diode:1N4148W")
-		(at 142.24 93.98 90)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "773732dd-d3e9-4d1f-abe2-25ec840e3d59")
-		(property "Reference" "D46"
-			(at 144.78 92.71 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify right)
-			)
-		)
-		(property "Value" "1N4148W"
-			(at 144.78 95.25 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify right)
-			)
-		)
-		(property "Footprint" "Diode_SMD:D_SOD-123"
-			(at 146.685 93.98 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" "https://www.vishay.com/docs/85748/1n4148w.pdf"
-			(at 142.24 93.98 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" ""
-			(at 142.24 93.98 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Sim.Device" "D"
-			(at 142.24 93.98 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Sim.Pins" "1=K 2=A"
-			(at 142.24 93.98 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "LCSC" "C7420318"
-			(at 142.24 93.98 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "1"
-			(uuid "64dfaf74-ee74-4269-950a-9b5237518a9a")
-		)
-		(pin "2"
-			(uuid "3afefbf6-6114-4a91-add7-85d0ee5ee4bf")
-		)
-		(instances
-			(project "arkre"
-				(path "/3657237e-c8f2-4ecf-b631-303d8d00a2b6/86c11717-6fb1-49fa-ba22-57d9c11d0559"
-					(reference "D46")
 					(unit 1)
 				)
 			)
@@ -6346,15 +5605,6 @@
 				(hide yes)
 			)
 		)
-		(property "LCSC" "C7420318"
-			(at 154.94 55.88 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
 		(pin "1"
 			(uuid "2ef17b59-5615-48f6-817c-15be19e22eae")
 		)
@@ -6377,11 +5627,11 @@
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
-		(dnp yes)
+		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "7c5a8f17-98b7-4a12-b45a-67fd9ab714c9")
-		(property "Reference" "S4"
-			(at 205.74 57.023 0)
+		(property "Reference" "S1"
+			(at 205.74 57.0229 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6390,7 +5640,7 @@
 			)
 		)
 		(property "Value" "6.25"
-			(at 205.74 59.563 0)
+			(at 205.74 59.5629 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6428,75 +5678,7 @@
 		(instances
 			(project "arkre"
 				(path "/3657237e-c8f2-4ecf-b631-303d8d00a2b6/86c11717-6fb1-49fa-ba22-57d9c11d0559"
-					(reference "S4")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "PCM_marbastlib-mx:MX_SW_HS")
-		(at 165.1 49.53 180)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp yes)
-		(fields_autoplaced yes)
-		(uuid "7ec255dc-af4d-4c89-9a58-8c7e446cc42b")
-		(property "Reference" "MX26"
-			(at 165.1 41.91 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Value" "MX_SW_solder"
-			(at 165.1 44.45 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Footprint" "PCM_marbastlib-mx:SW_MX_1u"
-			(at 165.1 49.53 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" "~"
-			(at 165.1 49.53 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" ""
-			(at 165.1 49.53 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "1"
-			(uuid "ec5325dd-1904-4904-8694-b3bc687a2287")
-		)
-		(pin "2"
-			(uuid "838ee61e-ce82-44ea-a7b4-6ccb315bc594")
-		)
-		(instances
-			(project "arkre"
-				(path "/3657237e-c8f2-4ecf-b631-303d8d00a2b6/86c11717-6fb1-49fa-ba22-57d9c11d0559"
-					(reference "MX26")
+					(reference "S1")
 					(unit 1)
 				)
 			)
@@ -6575,15 +5757,6 @@
 				(hide yes)
 			)
 		)
-		(property "LCSC" "C7420318"
-			(at 66.04 74.93 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
 		(pin "1"
 			(uuid "c0f45886-0763-4e2f-94d2-f08410315dc7")
 		)
@@ -6606,7 +5779,7 @@
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
-		(dnp yes)
+		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "824dcad8-34fd-4613-828e-b1846a28c922")
 		(property "Reference" "MX52"
@@ -6674,7 +5847,7 @@
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
-		(dnp yes)
+		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "85133251-f7da-44f2-996e-d97bb36c407f")
 		(property "Reference" "MX3"
@@ -6808,15 +5981,6 @@
 				(hide yes)
 			)
 		)
-		(property "LCSC" "C7420318"
-			(at 129.54 74.93 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
 		(pin "1"
 			(uuid "775b38b8-6248-41e1-b57a-e126f4fd8d2a")
 		)
@@ -6897,15 +6061,6 @@
 			)
 		)
 		(property "Sim.Pins" "1=K 2=A"
-			(at 154.94 93.98 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "LCSC" "C7420318"
 			(at 154.94 93.98 0)
 			(effects
 				(font
@@ -7002,15 +6157,6 @@
 				(hide yes)
 			)
 		)
-		(property "LCSC" "C7420318"
-			(at 104.14 55.88 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
 		(pin "1"
 			(uuid "4a2e9865-b0b7-4ab2-b649-95197d84219a")
 		)
@@ -7027,77 +6173,13 @@
 		)
 	)
 	(symbol
-		(lib_id "PCM_marbastlib-mx:MX_stab")
-		(at 199.39 20.32 0)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp yes)
-		(fields_autoplaced yes)
-		(uuid "91df6b9a-9b38-4886-bb88-b543b02f9fd1")
-		(property "Reference" "S1"
-			(at 205.74 18.923 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Value" "2.25"
-			(at 205.74 21.463 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Footprint" "PCM_marbastlib-mx:STAB_MX_P_2.25u"
-			(at 199.39 20.32 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" ""
-			(at 199.39 20.32 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" ""
-			(at 199.39 20.32 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(instances
-			(project "arkre"
-				(path "/3657237e-c8f2-4ecf-b631-303d8d00a2b6/86c11717-6fb1-49fa-ba22-57d9c11d0559"
-					(reference "S1")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
 		(lib_id "PCM_marbastlib-mx:MX_SW_HS")
 		(at 38.1 49.53 180)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
-		(dnp yes)
+		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "95a0fc24-0d7e-4504-8a39-96d530fd5706")
 		(property "Reference" "MX16"
@@ -7165,7 +6247,7 @@
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
-		(dnp yes)
+		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "961981c0-6853-4588-b9de-41bd454faef6")
 		(property "Reference" "MX18"
@@ -7299,15 +6381,6 @@
 				(hide yes)
 			)
 		)
-		(property "LCSC" "C7420318"
-			(at 66.04 55.88 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
 		(pin "1"
 			(uuid "7c96e11d-4462-4a73-9d39-47e63ebe5243")
 		)
@@ -7388,15 +6461,6 @@
 			)
 		)
 		(property "Sim.Pins" "1=K 2=A"
-			(at 53.34 55.88 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "LCSC" "C7420318"
 			(at 53.34 55.88 0)
 			(effects
 				(font
@@ -7493,15 +6557,6 @@
 				(hide yes)
 			)
 		)
-		(property "LCSC" "C7420318"
-			(at 27.94 36.83 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
 		(pin "1"
 			(uuid "ef072c37-9c55-4142-b7a2-8018b7925507")
 		)
@@ -7512,206 +6567,6 @@
 			(project "arkre"
 				(path "/3657237e-c8f2-4ecf-b631-303d8d00a2b6/86c11717-6fb1-49fa-ba22-57d9c11d0559"
 					(reference "D1")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "PCM_marbastlib-mx:MX_stab")
-		(at 199.39 33.02 0)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp yes)
-		(fields_autoplaced yes)
-		(uuid "a12e25ce-4891-4a25-a81d-05609fd19e4a")
-		(property "Reference" "S3"
-			(at 205.74 31.623 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Value" "ISO"
-			(at 205.74 34.163 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Footprint" "PCM_marbastlib-mx:STAB_MX_P_ISO-ROT"
-			(at 199.39 33.02 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" ""
-			(at 199.39 33.02 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" ""
-			(at 199.39 33.02 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(instances
-			(project "arkre"
-				(path "/3657237e-c8f2-4ecf-b631-303d8d00a2b6/86c11717-6fb1-49fa-ba22-57d9c11d0559"
-					(reference "S3")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "PCM_marbastlib-mx:MX_SW_HS")
-		(at 38.1 68.58 180)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp yes)
-		(fields_autoplaced yes)
-		(uuid "a27eb6ee-de55-4b08-9409-bf520f71daed")
-		(property "Reference" "MX31"
-			(at 38.1 60.96 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Value" "MX_SW_solder"
-			(at 38.1 63.5 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Footprint" "PCM_marbastlib-mx:SW_MX_1u"
-			(at 38.1 68.58 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" "~"
-			(at 38.1 68.58 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" ""
-			(at 38.1 68.58 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "1"
-			(uuid "cfb73dbc-4f90-45e0-90b0-16ae2b8bcc8d")
-		)
-		(pin "2"
-			(uuid "542b0b23-1bdd-4a97-841f-e48ef702bd46")
-		)
-		(instances
-			(project "arkre"
-				(path "/3657237e-c8f2-4ecf-b631-303d8d00a2b6/86c11717-6fb1-49fa-ba22-57d9c11d0559"
-					(reference "MX31")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "PCM_marbastlib-mx:MX_SW_HS")
-		(at 76.2 87.63 180)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp yes)
-		(fields_autoplaced yes)
-		(uuid "a41b9231-7f35-4c83-8ff6-7ba6f6d0c639")
-		(property "Reference" "MX45"
-			(at 76.2 80.01 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Value" "MX_SW_solder"
-			(at 76.2 82.55 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Footprint" "PCM_marbastlib-mx:SW_MX_1u"
-			(at 76.2 87.63 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" "~"
-			(at 76.2 87.63 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" ""
-			(at 76.2 87.63 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "1"
-			(uuid "15dcdc74-0908-4057-81dc-0297678a7d95")
-		)
-		(pin "2"
-			(uuid "7bf39b75-9a6f-473e-b551-96e76b66736b")
-		)
-		(instances
-			(project "arkre"
-				(path "/3657237e-c8f2-4ecf-b631-303d8d00a2b6/86c11717-6fb1-49fa-ba22-57d9c11d0559"
-					(reference "MX45")
 					(unit 1)
 				)
 			)
@@ -7790,15 +6645,6 @@
 				(hide yes)
 			)
 		)
-		(property "LCSC" "C7420318"
-			(at 154.94 74.93 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
 		(pin "1"
 			(uuid "e4a80216-d9e5-4a9a-9816-f78ed891dc51")
 		)
@@ -7809,297 +6655,6 @@
 			(project "arkre"
 				(path "/3657237e-c8f2-4ecf-b631-303d8d00a2b6/86c11717-6fb1-49fa-ba22-57d9c11d0559"
 					(reference "D37")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "Diode:1N4148W")
-		(at 78.74 93.98 90)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "a48956c4-f665-4e8c-8007-6adbb5999662")
-		(property "Reference" "D42"
-			(at 81.28 92.71 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify right)
-			)
-		)
-		(property "Value" "1N4148W"
-			(at 81.28 95.25 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify right)
-			)
-		)
-		(property "Footprint" "Diode_SMD:D_SOD-123"
-			(at 83.185 93.98 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" "https://www.vishay.com/docs/85748/1n4148w.pdf"
-			(at 78.74 93.98 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" ""
-			(at 78.74 93.98 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Sim.Device" "D"
-			(at 78.74 93.98 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Sim.Pins" "1=K 2=A"
-			(at 78.74 93.98 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "LCSC" "C7420318"
-			(at 78.74 93.98 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "1"
-			(uuid "c8ffa5cd-db7a-44a0-9f99-f1eea890eac1")
-		)
-		(pin "2"
-			(uuid "15bdf620-c0c1-43a4-993e-2e063f0fba6a")
-		)
-		(instances
-			(project "arkre"
-				(path "/3657237e-c8f2-4ecf-b631-303d8d00a2b6/86c11717-6fb1-49fa-ba22-57d9c11d0559"
-					(reference "D42")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "Diode:1N4148W")
-		(at 116.84 93.98 90)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "a4fb7c75-7ab9-488a-b45a-50481ad73911")
-		(property "Reference" "D45"
-			(at 119.38 92.71 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify right)
-			)
-		)
-		(property "Value" "1N4148W"
-			(at 119.38 95.25 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify right)
-			)
-		)
-		(property "Footprint" "Diode_SMD:D_SOD-123"
-			(at 121.285 93.98 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" "https://www.vishay.com/docs/85748/1n4148w.pdf"
-			(at 116.84 93.98 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" ""
-			(at 116.84 93.98 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Sim.Device" "D"
-			(at 116.84 93.98 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Sim.Pins" "1=K 2=A"
-			(at 116.84 93.98 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "LCSC" "C7420318"
-			(at 116.84 93.98 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "1"
-			(uuid "37c37869-596e-4bcc-8527-ab696a2bb3d5")
-		)
-		(pin "2"
-			(uuid "38277626-2a7e-42cd-98e7-4b3b38a05b01")
-		)
-		(instances
-			(project "arkre"
-				(path "/3657237e-c8f2-4ecf-b631-303d8d00a2b6/86c11717-6fb1-49fa-ba22-57d9c11d0559"
-					(reference "D45")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "Diode:1N4148W")
-		(at 167.64 55.88 90)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "a5526849-ddd4-4485-8208-eb4af073f53d")
-		(property "Reference" "D25"
-			(at 170.18 54.61 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify right)
-			)
-		)
-		(property "Value" "1N4148W"
-			(at 170.18 57.15 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify right)
-			)
-		)
-		(property "Footprint" "Diode_SMD:D_SOD-123"
-			(at 172.085 55.88 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" "https://www.vishay.com/docs/85748/1n4148w.pdf"
-			(at 167.64 55.88 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" ""
-			(at 167.64 55.88 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Sim.Device" "D"
-			(at 167.64 55.88 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Sim.Pins" "1=K 2=A"
-			(at 167.64 55.88 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "LCSC" "C7420318"
-			(at 167.64 55.88 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "1"
-			(uuid "10f7ed22-034b-4b3d-9ef7-7d94617670d1")
-		)
-		(pin "2"
-			(uuid "1f4fe997-5286-4cb0-b2e9-55a22cdc05e9")
-		)
-		(instances
-			(project "arkre"
-				(path "/3657237e-c8f2-4ecf-b631-303d8d00a2b6/86c11717-6fb1-49fa-ba22-57d9c11d0559"
-					(reference "D25")
 					(unit 1)
 				)
 			)
@@ -8178,15 +6733,6 @@
 				(hide yes)
 			)
 		)
-		(property "LCSC" "C7420318"
-			(at 91.44 74.93 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
 		(pin "1"
 			(uuid "86df703a-5504-4a72-b320-285c52ac4efe")
 		)
@@ -8209,7 +6755,7 @@
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
-		(dnp yes)
+		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "ac308141-14a5-4d72-806e-094e50b8a5fa")
 		(property "Reference" "MX37"
@@ -8277,7 +6823,7 @@
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
-		(dnp yes)
+		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "ae7088f1-4c3c-4e6d-aa15-d5088efbc3ba")
 		(property "Reference" "MX30"
@@ -8296,7 +6842,7 @@
 				)
 			)
 		)
-		(property "Footprint" "PCM_marbastlib-mx:SW_MX_1.25u"
+		(property "Footprint" "PCM_marbastlib-mx:SW_MX_1u"
 			(at 25.4 68.58 0)
 			(effects
 				(font
@@ -8345,7 +6891,7 @@
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
-		(dnp yes)
+		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "afa79f93-084b-4936-bf01-b671e2716756")
 		(property "Reference" "MX20"
@@ -8413,7 +6959,7 @@
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
-		(dnp yes)
+		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "b0f4d1d2-74aa-42ba-848f-80c943d7cd44")
 		(property "Reference" "MX12"
@@ -8481,7 +7027,7 @@
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
-		(dnp yes)
+		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "b18ee5c6-708e-4f87-8ded-6c25bc57ebce")
 		(property "Reference" "MX44"
@@ -8549,7 +7095,7 @@
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
-		(dnp yes)
+		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "b592301c-5779-4265-9001-94a5f66d092a")
 		(property "Reference" "MX9"
@@ -8617,7 +7163,7 @@
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
-		(dnp yes)
+		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "babc60c8-8665-430f-8d7d-64aaa8fe8a32")
 		(property "Reference" "MX39"
@@ -8680,80 +7226,12 @@
 	)
 	(symbol
 		(lib_id "PCM_marbastlib-mx:MX_SW_HS")
-		(at 139.7 87.63 180)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp yes)
-		(fields_autoplaced yes)
-		(uuid "bb9b1df3-804a-4844-946f-c77a61331e1d")
-		(property "Reference" "MX51"
-			(at 139.7 80.01 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Value" "MX_SW_solder"
-			(at 139.7 82.55 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Footprint" "PCM_marbastlib-mx:SW_MX_1u"
-			(at 139.7 87.63 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" "~"
-			(at 139.7 87.63 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" ""
-			(at 139.7 87.63 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "1"
-			(uuid "bb0be758-4928-4630-8c56-aa5393ea40d1")
-		)
-		(pin "2"
-			(uuid "2bf18f31-9f12-4f15-b164-a9726b59ad07")
-		)
-		(instances
-			(project "arkre"
-				(path "/3657237e-c8f2-4ecf-b631-303d8d00a2b6/86c11717-6fb1-49fa-ba22-57d9c11d0559"
-					(reference "MX51")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "PCM_marbastlib-mx:MX_SW_HS")
 		(at 101.6 30.48 180)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
-		(dnp yes)
+		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "bbde17c6-a7f5-4d0f-8fd4-97eef09b83e6")
 		(property "Reference" "MX7"
@@ -8887,15 +7365,6 @@
 				(hide yes)
 			)
 		)
-		(property "LCSC" "C7420318"
-			(at 66.04 36.83 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
 		(pin "1"
 			(uuid "f0edfd7b-ec83-42f5-821e-e46e502e15af")
 		)
@@ -8918,7 +7387,7 @@
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
-		(dnp yes)
+		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "bd9b96f7-d1c4-46c1-845d-ce1c26ad48e2")
 		(property "Reference" "MX24"
@@ -8986,7 +7455,7 @@
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
-		(dnp yes)
+		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "bf613478-31b3-4b40-b1b1-14f1e76faad3")
 		(property "Reference" "MX34"
@@ -9120,15 +7589,6 @@
 				(hide yes)
 			)
 		)
-		(property "LCSC" "C7420318"
-			(at 78.74 74.93 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
 		(pin "1"
 			(uuid "03fc22e5-1e31-4947-a4a1-0d9400165a81")
 		)
@@ -9139,74 +7599,6 @@
 			(project "arkre"
 				(path "/3657237e-c8f2-4ecf-b631-303d8d00a2b6/86c11717-6fb1-49fa-ba22-57d9c11d0559"
 					(reference "D31")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "PCM_marbastlib-mx:MX_SW_HS")
-		(at 88.9 87.63 180)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp yes)
-		(fields_autoplaced yes)
-		(uuid "cbaad4ad-b177-4a6e-a5a1-6aab592fbd42")
-		(property "Reference" "MX46"
-			(at 88.9 80.01 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Value" "MX_SW_solder"
-			(at 88.9 82.55 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Footprint" "PCM_marbastlib-mx:SW_MX_1u"
-			(at 88.9 87.63 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" "~"
-			(at 88.9 87.63 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" ""
-			(at 88.9 87.63 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "1"
-			(uuid "4cbe0f64-d7d1-49e7-b1eb-3090240d3c5a")
-		)
-		(pin "2"
-			(uuid "dbdb75cf-7ada-443f-aab8-e008e1ef285c")
-		)
-		(instances
-			(project "arkre"
-				(path "/3657237e-c8f2-4ecf-b631-303d8d00a2b6/86c11717-6fb1-49fa-ba22-57d9c11d0559"
-					(reference "MX46")
 					(unit 1)
 				)
 			)
@@ -9285,15 +7677,6 @@
 				(hide yes)
 			)
 		)
-		(property "LCSC" "C7420318"
-			(at 78.74 55.88 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
 		(pin "1"
 			(uuid "49cf2a6d-5e51-4e70-992a-b3f6b36da295")
 		)
@@ -9304,74 +7687,6 @@
 			(project "arkre"
 				(path "/3657237e-c8f2-4ecf-b631-303d8d00a2b6/86c11717-6fb1-49fa-ba22-57d9c11d0559"
 					(reference "D18")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "PCM_marbastlib-mx:MX_SW_HS")
-		(at 114.3 87.63 180)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp yes)
-		(fields_autoplaced yes)
-		(uuid "ce569296-c189-479a-bbb6-57da0801b947")
-		(property "Reference" "MX49"
-			(at 114.3 80.01 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Value" "MX_SW_solder"
-			(at 114.3 82.55 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Footprint" "PCM_marbastlib-mx:SW_MX_1u"
-			(at 114.3 87.63 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" "~"
-			(at 114.3 87.63 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" ""
-			(at 114.3 87.63 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "1"
-			(uuid "e8032f6d-f96d-401e-9337-0b113ff41124")
-		)
-		(pin "2"
-			(uuid "17a8cbf6-6366-4768-9282-19e5d644827f")
-		)
-		(instances
-			(project "arkre"
-				(path "/3657237e-c8f2-4ecf-b631-303d8d00a2b6/86c11717-6fb1-49fa-ba22-57d9c11d0559"
-					(reference "MX49")
 					(unit 1)
 				)
 			)
@@ -9450,15 +7765,6 @@
 				(hide yes)
 			)
 		)
-		(property "LCSC" "C7420318"
-			(at 180.34 74.93 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
 		(pin "1"
 			(uuid "43b2a935-0c2b-4762-8756-010968140816")
 		)
@@ -9481,7 +7787,7 @@
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
-		(dnp yes)
+		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "d5de09b9-d06c-45d0-afa5-63e85a71522f")
 		(property "Reference" "MX42"
@@ -9500,7 +7806,7 @@
 				)
 			)
 		)
-		(property "Footprint" "PCM_marbastlib-mx:SW_MX_1.75u"
+		(property "Footprint" "PCM_marbastlib-mx:SW_MX_1u"
 			(at 177.8 68.58 0)
 			(effects
 				(font
@@ -9549,7 +7855,7 @@
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
-		(dnp yes)
+		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "d7fd7d48-017a-4509-98f1-356a9f689c31")
 		(property "Reference" "MX19"
@@ -9617,7 +7923,7 @@
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
-		(dnp yes)
+		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "dc973471-b412-4c95-bb18-c3e4fc2c835a")
 		(property "Reference" "MX5"
@@ -9751,15 +8057,6 @@
 				(hide yes)
 			)
 		)
-		(property "LCSC" "C7420318"
-			(at 167.64 93.98 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
 		(pin "1"
 			(uuid "4cfe17b2-5c2b-4258-9205-724835c2e9d3")
 		)
@@ -9782,7 +8079,7 @@
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
-		(dnp yes)
+		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "e052a732-2e9f-43d5-b9d3-4de02b85cc12")
 		(property "Reference" "MX17"
@@ -9916,15 +8213,6 @@
 				(hide yes)
 			)
 		)
-		(property "LCSC" "C7420318"
-			(at 129.54 55.88 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
 		(pin "1"
 			(uuid "98b59698-f8e0-4c52-bfa7-3f55b958116a")
 		)
@@ -10005,15 +8293,6 @@
 			)
 		)
 		(property "Sim.Pins" "1=K 2=A"
-			(at 40.64 36.83 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "LCSC" "C7420318"
 			(at 40.64 36.83 0)
 			(effects
 				(font
@@ -10110,15 +8389,6 @@
 				(hide yes)
 			)
 		)
-		(property "LCSC" "C7420318"
-			(at 180.34 36.83 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
 		(pin "1"
 			(uuid "53c29afb-4f6c-4e6e-8ec3-ad62f12098bc")
 		)
@@ -10207,15 +8477,6 @@
 				(hide yes)
 			)
 		)
-		(property "LCSC" "C7420318"
-			(at 116.84 74.93 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
 		(pin "1"
 			(uuid "0d9b19f5-6f66-492e-98ca-b798df5f57bf")
 		)
@@ -10238,7 +8499,7 @@
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
-		(dnp yes)
+		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "f5068f47-c4ea-43bf-a1d5-a572094587b4")
 		(property "Reference" "MX35"
@@ -10306,7 +8567,7 @@
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
-		(dnp yes)
+		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "f5fabb90-3d55-420d-92f3-3703723414eb")
 		(property "Reference" "MX8"
@@ -10374,7 +8635,7 @@
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
-		(dnp yes)
+		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "f64b90c5-1a38-4e9f-9963-c7fdc538e2f7")
 		(property "Reference" "MX27"
@@ -10393,7 +8654,7 @@
 				)
 			)
 		)
-		(property "Footprint" "PCM_marbastlib-mx:SW_MX_1u"
+		(property "Footprint" "PCM_marbastlib-mx:SW_MX_1.75u"
 			(at 177.8 49.53 0)
 			(effects
 				(font
@@ -10508,15 +8769,6 @@
 				(hide yes)
 			)
 		)
-		(property "LCSC" "C7420318"
-			(at 116.84 36.83 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
 		(pin "1"
 			(uuid "fbc31cde-d247-4ad3-8f01-e4c81a4e88ac")
 		)
@@ -10539,7 +8791,7 @@
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
-		(dnp yes)
+		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "fac13350-0ec0-4325-b441-5b4fddbdfb4c")
 		(property "Reference" "MX38"
@@ -10673,15 +8925,6 @@
 				(hide yes)
 			)
 		)
-		(property "LCSC" "C7420318"
-			(at 40.64 93.98 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
 		(pin "1"
 			(uuid "67776efa-6e42-4021-9ee9-7f44b165ea8f")
 		)
@@ -10704,7 +8947,7 @@
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
-		(dnp yes)
+		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "fc154b4b-ad2a-427b-9470-ed9ab8ab291d")
 		(property "Reference" "MX13"
@@ -10723,7 +8966,7 @@
 				)
 			)
 		)
-		(property "Footprint" "PCM_marbastlib-mx:SW_MX_1.5u"
+		(property "Footprint" "PCM_marbastlib-mx:SW_MX_1u"
 			(at 177.8 30.48 0)
 			(effects
 				(font
@@ -10760,70 +9003,6 @@
 			(project "arkre"
 				(path "/3657237e-c8f2-4ecf-b631-303d8d00a2b6/86c11717-6fb1-49fa-ba22-57d9c11d0559"
 					(reference "MX13")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "PCM_marbastlib-mx:MX_stab")
-		(at 199.39 71.12 0)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp yes)
-		(fields_autoplaced yes)
-		(uuid "fc5c98a7-ef31-45c8-9f38-6f5c3fd1c6d4")
-		(property "Reference" "S6"
-			(at 205.74 69.723 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Value" "2.25"
-			(at 205.74 72.263 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Footprint" "PCM_marbastlib-mx:STAB_MX_P_2.25u"
-			(at 199.39 71.12 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" ""
-			(at 199.39 71.12 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" ""
-			(at 199.39 71.12 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(instances
-			(project "arkre"
-				(path "/3657237e-c8f2-4ecf-b631-303d8d00a2b6/86c11717-6fb1-49fa-ba22-57d9c11d0559"
-					(reference "S6")
 					(unit 1)
 				)
 			)
@@ -10894,15 +9073,6 @@
 			)
 		)
 		(property "Sim.Pins" "1=K 2=A"
-			(at 78.74 36.83 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "LCSC" "C7420318"
 			(at 78.74 36.83 0)
 			(effects
 				(font
