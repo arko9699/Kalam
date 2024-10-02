@@ -1,2 +1,2 @@
-# Lipika
- A 45% keyboard PCB project
+# Kalam
+ A 40% keyboard PCB project
